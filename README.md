@@ -45,5 +45,8 @@ are still unsure of anything please feel free to reach out to [hackathon@rootlev
 
 # Judges
 Stewart Smith (Root Level Technology) : [@stxyzth](https://github.com/stxyzth)
+Stephan Sarver
+Eric Fouarge
+Bryan Kang (Google)
 
 Stephan Sarver 
