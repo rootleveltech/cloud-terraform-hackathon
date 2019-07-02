@@ -11,7 +11,7 @@ free attendee t-shirt once your submission is posted.
 
 
 ### How to apply
-To enter the hackathon please go to this [google form]() and submit all
+To enter the hackathon please go to this [google form](https://docs.google.com/forms/d/e/1FAIpQLSfc9cdx0XyRVWI5Q6dV5ptX60PtjwLOcq9UT9KIKu5AkyQU9Q/viewform) and submit all
 required information.
 
 
